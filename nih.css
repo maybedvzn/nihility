@@ -45,7 +45,7 @@
   }
   button:hover {
     transform: scale(1.08);
-    box-shadow: 0 0 18px rgba(255, 255, 255, 0.8);
+    border: 18px rgba(255, 255, 255, 0.8);
   }
     button i {
     margin-right: 8px;
